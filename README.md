@@ -1,6 +1,6 @@
 # CareerCraft
 
-![CareerCraft Logo](logo.png)
+<img src="logo.png" alt="CareerCraft Logo" width="200" />
 
 **CareerCraft** is a comprehensive web application designed to help users craft their career journey effectively. This platform offers tools and resources like a resume builder, cover letter builder, career guidance, a curated list of companies, and a job-specific chatbot.
 
